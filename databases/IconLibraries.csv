@@ -1,15 +1,15 @@
 Name,Category Primary,Subcategory,Logo URL,Pricing,Direct Link,Number of icons,Figma Plugin,Figma File,Fill and Outline,Animated,Dev package
-Material icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Material-Icons-Logo.png,Free,https://fonts.google.com/icons,3000+,Yes,No,Yes,No,Yes
-Phospor icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Phospor-Logo.png,Free,https://phosphoricons.com,7000+,Yes,Yes,Yes,No,Yes
-Glyphs,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Glyphs-Logo.png,Free,https://glyphs.fyi,6000+,No,Yes,Yes,No,Yes
-Tabler icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Tabler-Logo.png,Free,https://tabler-icons.io,4000+,Yes,No,No,No,Yes
-Atlas icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Atlas-Icons-Logo.png,Free,https://atlasicons.vectopus.com,2000+,Yes,No,No,No,Yes
-Remixicon,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Remixicons-Logo.jpeg,Free,https://remixicon.com,2000+,Yes,No,Yes,No,Yes
-Iconify,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/Ikonify-Logo.png,Free,https://www.figma.com/community/plugin/735098390272716381/Iconify,"100,000+",Yes,No,Yes,No,No
+Phospor icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Phospor-Logo.png,Free,https://phosphoricons.com,7000+,Yes,Yes,Yes,No,Yes
+Material icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Material-Icons-Logo.png,Free,https://fonts.google.com/icons,3000+,Yes,No,Yes,No,Yes
+Tabler icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Tabler-Logo.png,Free,https://tabler-icons.io,4000+,Yes,No,No,No,Yes
+Glyphs,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Glyphs-Logo.png,Free,https://glyphs.fyi,6000+,No,Yes,Yes,No,Yes
+Atlas icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Atlas-Icons-Logo.png,Free,https://atlasicons.vectopus.com,2000+,Yes,No,No,No,Yes
+Remixicon,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Remixicons-Logo.jpeg,Free,https://remixicon.com,2000+,Yes,No,Yes,No,Yes
+Iconify,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Iconify-Logo.png,Free,https://www.figma.com/community/plugin/735098390272716381/Iconify,"100,000+",Yes,No,Yes,No,No
 Unicode Characters,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/UnicodelLogo.png,Free,https://www.vertex42.com/ExcelTips/unicode-symbols.html,"100,000+",No,No,No,No,No
-Lucide,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/LucideIcons-Logo.png,Free,https://lucide.dev,1000+,No,No,No,Yes,No
-Openmoji,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/LucideIcons-Logo.png,Free,https://openmoji.org,3000+,No,No,Yes,No,Yes
-Unicorn Icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/UnicorniIcons-Logo.png,Free,https://unicornicons.com,100+,No,No,Yes,No,No
+Lucide,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/LucideIcons-Logo.png,Free,https://lucide.dev,1000+,No,No,No,Yes,No
+Openmoji,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Openmoji-Logo.png,Free,https://openmoji.org,3000+,No,No,Yes,No,Yes
+Unicorn Icons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/UnicorniIcons-Logo.png,Free,https://unicornicons.com,100+,No,No,Yes,Yes,No
 Streamline,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/StreamlineIcons-Logo.png,Freemium,https://streamlinehq.com,"100,000+",Yes,Yes,Yes,No,Yes
 Icons 8,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Icons8-Logo.png,Freemium,https://icons8.com/icons/group-ui,"100,000+",Yes,Yes,Yes,No,Yes
 Majesticons,Design-Systems,Icon-Libraries,https://raw.githubusercontent.com/michalklimt/UIT-V3/main/imgs/logos/Majesticons-Logo.png,Freemium,https://www.majesticons.com,7000+,No,Yes,Yes,No,Yes
